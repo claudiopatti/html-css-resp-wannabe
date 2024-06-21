@@ -185,3 +185,11 @@ img {
 
 }
 
+@media screen and (min-width: 780px) {
+
+    .container {
+        width: 100%;
+    }
+    
+}
+
