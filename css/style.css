@@ -132,32 +132,19 @@ img {
 @media screen and (max-width: 768px) {
 
     .text-center {
-        max-width: 100%;
-    }
-
-    .lessons {
-        max-width: 100%;
+        width: 100%;
     }
 
     .lessons .container {
-        max-width: 100%;
-    }
-
-
-    .steps {
-        max-width: 100%;
+        width: 100%;
     }
 
     .steps .container {
-        max-width: 100%;
-    }
-
-    .why-us {
-        max-width: 100%;
+        width: 100%;
     }
 
     .why-us .container {
-        max-width: 100%;
+        width: 100%;
     }
     
 }
@@ -195,7 +182,6 @@ img {
         width: 400px;
         
     }
-
 
 }
 
